@@ -2,8 +2,6 @@
 Moh. Rifki Almahdi (232410102023)
 
 
-LINK YT : https://youtu.be/_5thN6-2UaA
-
 Aplikasi ini merupakan implementasi Augmented Reality (AR) berbasis marker menggunakan Unity dan Vuforia.
 Ketika kamera diarahkan ke marker (poster yang telah dibuat), maka akan muncul objek bola sepak 3D secara realtime di atas marker.
 
@@ -59,3 +57,4 @@ Objek bola akan muncul di atas marker saat terdeteksi kamera.
 Klik tombol Play di Unity.
 
 Arahkan kamera ke marker → bola 3D akan muncul.
+LINK YT : https://youtu.be/_5thN6-2UaA
